@@ -27,3 +27,10 @@ This project analyzes sales data to identify key business insights such as reven
 
 ## 🚀 Outcome
 This project helped in understanding data analysis, dashboard creation, and business decision-making.
+
+## 🔮 Future Improvements
+- Add Power BI version of dashboard
+- Include more advanced KPIs
+- Automate data updates
+
+
